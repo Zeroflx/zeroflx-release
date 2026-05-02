@@ -54,3 +54,7 @@ Recommend to [download page](https://zeroflx.com/download) or you can go to [git
 | Linux | 🔨 Developing | ⭐⭐⭐ |
 | Android | 📅 Planning | ⭐⭐⭐ |
 | iOS | 📅 Planning | ⭐⭐⭐ |
+
+## Disclaimer
+
+Zeroflx is a closed-source product, and the GitHub repository is only used for distribution and accepting product feedback.
