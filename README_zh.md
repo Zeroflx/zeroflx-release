@@ -2,8 +2,6 @@
 
 >  一款现代的跨平台视频播放器
 
-
-
 <p align="center">
   <img src="https://img.zeroflx.com/zeroflx_icon_128.png" alt="">
 </p>
@@ -13,13 +11,15 @@
     <a href="https://zeroflx.com">官网</a>
 </p>
 
-
-
 ## 介绍
 
 Zeroflx是一款现代、跨平台的视频播放器，播放内核使用MPV和VLC，兼容几乎所有视频格式。支持跨设备配置同步，界面简洁美观。我们的目标是提供流畅和一致的视频播放体验。
 
 如果遇到问题或者有功能需求，欢迎提交issue，您的支持和反馈是我们最大的提升动力。
+
+## 下载
+
+推荐到[下载页面](https://zeroflx.com/download)，或者你可以到[github release](https://github.com/Zeroflx/zeroflx-release/releases/latest)。
 
 ## 功能特性
 
@@ -51,7 +51,7 @@ Zeroflx是一款现代、跨平台的视频播放器，播放内核使用MPV和V
 | ------- | ------- | ---------- |
 | Windows | ✅支持   | ⭐⭐⭐⭐⭐      |
 | macOS   | ✅支持   | ⭐⭐⭐⭐       |
+| Linux   | 🔨开发中 | ⭐⭐⭐        |
 | Android | 📅计划   | ⭐⭐⭐        |
 | iOS     | 📅计划   | ⭐⭐⭐        |
-| Linux   | 🔨开发中 | ⭐⭐⭐        |
 
